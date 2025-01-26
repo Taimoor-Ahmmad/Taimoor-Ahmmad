@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taimoor-ahmmad&label=Profile%20views&color=0e75b6&style=flat" alt="taimoor-ahmmad" /> </p>
 
-- 🌱 I’m currently learning **Django, Generative AI**
+- 🌱 I’m currently learning **MERN stack and Generative AI**
 
 - 📫 How to reach me **taimoorahmad890@gmail.com**
 
